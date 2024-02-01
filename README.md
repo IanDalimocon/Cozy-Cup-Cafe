@@ -13,7 +13,7 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience for b
 
 ## Screen Captures
 
-[!Home Screen] (home.jpg)
+(home.jpg)
 Description: Home screen showcasing the cozy ambiance of the cafe.
 
 

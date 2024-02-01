@@ -12,7 +12,8 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience for b
 - Feedback System: Gather valuable feedback from customers through a built-in review and rating system.
 
 ## Screen Captures
-  
+
+[!Home Screen] (home.jpg)
 Description: Home screen showcasing the cozy ambiance of the cafe.
 
 

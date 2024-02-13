@@ -52,3 +52,17 @@ Connect with me on:
 
 [<img src="Facebook_black.png" alt="Facebook" width="40">](https://www.facebook.com/IanDalimocon/)
 [<img src="Github_black.png" alt="GitHub" width="40">](https://github.com/IanDalimocon)
+
+<img src="12.jpg" alt="Ian Gabriel F. Dalimocon" style="border-radius:50%;" width=150>
+
+**Name: Jay Evan Willis Lagutan**
+
+**Email:** jaylagutan02@gmail.com
+
+Connect with me on:
+- [Email](mailto:jaylagutan02@gmail.com)
+- [![Facebook](Facebook_black.jpg | width=30)](https://www.facebook.com/princess.michael.35574)
+- [![GitHub](1234.jpg | width=30)](https://github.com/Jhay0602)
+
+[<img src="Facebook_black.png" alt="Facebook" width="40">](https://www.facebook.com/princess.michael.35574)
+[<img src="Github_black.png" alt="GitHub" width="40">](https://github.com/Jhay0602)

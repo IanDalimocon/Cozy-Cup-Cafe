@@ -13,7 +13,7 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience for b
 
 ## Screen Captures
 
-<img src="2.jpg" width="150"/>
+<img src="423568468_1764550047398841_763709334342600698_n.png" width="150"/>
 
 Description:Step into a realm where every sip is accompanied by an orchestra of cozy whispers and the warm embrace of our enchanting coffee shop ambiance. The air is infused with the aromatic dance of freshly ground coffee beans, creating a symphony that beckons you to unwind and savor the moment.
 
@@ -21,17 +21,17 @@ Soft, ambient lighting casts a gentle glow upon a tapestry of rustic and modern 
 
 Natural light pours through large windows, creating a serene atmosphere that transcends the ordinary. Lush greenery and tasteful decor contribute to an aesthetic that is both inviting and inspiring, making our coffee shop a haven for creativity, relaxation, and connection.
 
-<img src="3.jpg" width="150"/>
+<img src="423541775_1116224272903877_2870596733764785385_n.png" width="150"/>
 
 Description: In this captivating snapshot, the ambiance of our coffee shop comes to life as customers savor moments of tranquility and connection. The gentle hum of conversation mingles with the aromatic symphony of freshly brewed coffee, creating an atmosphere that is both inviting and energizing.
 
-<img src="4.jpg" width="150"/>
+<img src="423454374_1120990602423174_3832831838747555174_n.png" width="150"/>
 
 Description: Embark on a culinary journey with our cherished best seller, Heavenly Harvest Bread, a delightful creation that has become the heart and soul of our coffee shop.
 
 Crafted with passion and precision, this artisanal bread is a testament to the perfect blend of tradition and innovation. The crust, golden and crisp, encases a soft, pillowy interior that's a canvas for the rich tapestry of flavors within.
 
-<img src="5.jpg" width="150"/>
+<img src="423541846_769233685113845_205386693007417447_n.png" width="150"/>
 
 Description: Indulge in the unparalleled experience of our best seller, Cloud Coffee. Crafted with precision and passion, this exquisite blend takes you on a journey to the clouds with every sip.
 

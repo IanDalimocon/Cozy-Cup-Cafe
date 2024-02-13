@@ -13,19 +13,19 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience for b
 
 ## Screen Captures
 
-<img src="423568468_1764550047398841_763709334342600698_n.png" height="400" width="500"/>
+<img src="423568468_1764550047398841_763709334342600698_n.png" height="400" width="600"/>
 
 Description: Welcome to [J & G Cafe], where every cup tells a story! Step into our cozy sanctuary, where the aroma of freshly brewed coffee fills the air, and the warm embrace of community awaits. Indulge in our carefully curated menu of artisanal coffees, delectable pastries, and savory treats, crafted with love and passion. Whether you're seeking a tranquil space to work, catch up with friends, or simply unwind with a good book, our inviting atmosphere and friendly staff ensure a memorable experience with each visit. Join us in celebrating life's simple pleasures, one sip at a time. Welcome home to [J & G Cafe].
 
-<img src="423541775_1116224272903877_2870596733764785385_n.png" height="400" width="500"/>
+<img src="423541775_1116224272903877_2870596733764785385_n.png" height="400" width="600"/>
 
 Description: Discover the perfect brew to start your day or indulge in a moment of bliss at [J & G Cafe]. Our exquisite coffee menu features an array of tantalizing options to suit every palate. From velvety lattes and robust espressos to creamy cappuccinos and aromatic pour-overs, each cup is expertly crafted using premium beans sourced from around the world. Elevate your coffee experience with our customizable selections, including dairy-free alternatives and indulgent syrups. Whether you prefer a bold and invigorating blend or a smooth and mellow roast, we invite you to savor the rich flavors and enticing aromas that await you at [J & G Cafe].
 
-<img src="423454374_1120990602423174_3832831838747555174_n.png" height="400" width="500"/>
+<img src="423454374_1120990602423174_3832831838747555174_n.png" height="400" width="600"/>
 
 Description: At [J & G Cafe], our story is brewed from a passion for community, quality, and the art of coffee. Nestled in the heart of [222 Cafe, Sicsican PPC Palawan], our journey began with a simple dream: to create a welcoming space where friends could gather, conversations could flow, and every cup served would be a moment of joy. From our humble beginnings to becoming a beloved local hotspot, we remain committed to our values of authenticity and excellence. With each sip, bite, and smile exchanged, we invite you to be a part of our story and experience the warmth and camaraderie that defines [J & G Cafe]. Welcome to our family.
 
-<img src="423541846_769233685113845_205386693007417447_n.png" height="400" width="500"/>
+<img src="423541846_769233685113845_205386693007417447_n.png" height="400" width="600"/>
 
 Description: Have a question, comment, or just want to say hello? We'd love to hear from you! Reach out to us at [J & G Cafe] through any of the channels below. Whether you prefer to drop by in person, give us a call, or send us a message online, our friendly team is here to assist you. Your feedback matters to us, as we strive to make every visit to [J & G Cafe ] memorable and enjoyable. Get in touch today and let's start a conversation.
 
